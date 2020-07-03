@@ -170,7 +170,7 @@ main {
     margin: 0 auto;
         /* tambahan */
         padding: 10px 0 30px 0;
-        background-image: url(/images/main1.png);
+        background-image: url(../images/main1.png);
         background-size: contain;
         /* color: white; */
         color: black;
