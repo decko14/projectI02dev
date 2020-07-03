@@ -16,6 +16,10 @@
 
 /* Untuk Smartphone */
 @media all and (max-width: 670px) {
+
+  header {
+    width:100%;
+  }
  
   .teams {
       flex-direction: column;
@@ -55,6 +59,15 @@
   }
   footer {
     width:100%;
+  }
+
+  .menu-icon {
+    display: block;
+  }
+
+  .header-right {
+    display: none;
+    width:10%;  
   }
 }
 
